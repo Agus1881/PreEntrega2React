@@ -1,6 +1,5 @@
-import carrito from "../assets/carrito.png"
 export const CardWidget = () => (
     <>
-    <img src={carrito} alt="carrito" /> 0
+    <img src="/assets/carrito.png" alt="carrito" /> 0
     </>
 )
